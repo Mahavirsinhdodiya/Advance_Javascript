@@ -1,0 +1,15 @@
+1) What is JSON ?
+Ans)=>JSON is an acronym for JavaScript Object Notation, is an open standard format, which is lightweight and text-based, designed explicitly for human-readable data interchange. It is a language-independent data format. It supports almost every kind of language, framework, and library.
+
+JSON is an open standard for exchanging data on the web. It supports data structures like objects and arrays. So, it is easy to write and read data from JSON.
+
+most commonly used JSON data types are: String, Number, Boolean & Null.
+
+2) What is promises?
+Ans)=>The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+A Promise is a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. 
+A Promise is in one of these states:
+.pending: initial state, neither fulfilled nor rejected.
+.fulfilled: meaning that the operation was completed successfully.
+.rejected: meaning that the operation failed.
+
